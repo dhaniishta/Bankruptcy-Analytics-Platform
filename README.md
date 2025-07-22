@@ -4,6 +4,9 @@ An interactive **Streamlit-based web application** for predicting company bankru
 
 ## Live Demo
 [🔗 Click here to try it on Streamlit Cloud](https://your-username.streamlit.app)  
+![Prediction Playground](images/pred.png)
+![Model Deep Dive](images/model.png)
+![Data Explorer](images/data.png)
 
 ---
 
@@ -19,3 +22,9 @@ An interactive **Streamlit-based web application** for predicting company bankru
   - Random Forest, Logistic Regression, Decision Tree, SVC, KNN, Bagging, Naive Bayes
 
 ---
+
+## Use Cases
+-Risk analysis for financial institutions
+-Teaching ML interpretability
+-Credit scoring prototype development
+-Exploring imbalanced classification handling (SMOTE)
