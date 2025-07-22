@@ -4,9 +4,9 @@ An interactive **Streamlit-based web application** for predicting company bankru
 
 ## Live Demo
 [🔗 Click here to try it on Streamlit Cloud](https://your-username.streamlit.app)  
-![Prediction Playground](images/prediction_playground.png)
-![Model Deep Dive](images/model_deep_dive.png)
-![Data Explorer](images/data_explorer.png)
+![Prediction Playground](images/pred.png)
+![Model Deep Dive](images/model.png)
+![Data Explorer](images/data.png)
 
 ---
 
