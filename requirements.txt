@@ -1,6 +1,10 @@
 streamlit
+scikit-learn==1.2.2
+imbalanced-learn==0.10.1
 pandas
 numpy
+matplotlib
+seaborn
 plotly
-scikit-learn
-imbalanced-learn
+folium
+requests
