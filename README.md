@@ -29,7 +29,7 @@ An interactive **Streamlit-based web application** for predicting company bankru
 
 ## Use Cases
 
--Risk analysis for financial institutions
--Teaching ML interpretability
--Credit scoring prototype development
--Exploring imbalanced classification handling (SMOTE)
+- Risk analysis for financial institutions
+- Teaching ML interpretability
+- Credit scoring prototype development
+- Exploring imbalanced classification handling (SMOTE)
