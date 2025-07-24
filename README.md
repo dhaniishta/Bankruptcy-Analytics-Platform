@@ -3,7 +3,7 @@
 An interactive **Streamlit-based web application** for predicting company bankruptcy risk using classical machine learning models. The app includes a real-time prediction playground, model interpretability via visual analytics, and full dataset exploration tools.
 
 ## Live Demo
-[🔗 Click here to try it on Streamlit Cloud](https://your-username.streamlit.app)  
+[Click here to try it on Streamlit Cloud](https://bankruptcy-analytics-platform-bujst3ugcknlk8pmfeka7x.streamlit.app/) 
 <h3 align="center">App Screenshots</h3>
 
 <p align="center">
